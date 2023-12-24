@@ -15,12 +15,10 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-``` py-
-/*
-Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
-
+``` py
+#Program to find the square root for the given number(newton's method) using function.
+#Developed by: 
+#RegisterNumber:  
 num=int(input())
 a=1e-6
 max=100
