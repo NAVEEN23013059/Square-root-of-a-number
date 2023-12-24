@@ -17,8 +17,8 @@ To write a program to find the square root of a number.
 ## Program:
 ``` py
 #Program to find the square root for the given number(newton's method) using function.
-#Developed by: 
-#RegisterNumber:  
+#Developed by:NAVEEN.S
+#RegisterNumber: 23013059 
 num=int(input())
 a=1e-6
 max=100
